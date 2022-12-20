@@ -1,8 +1,8 @@
 ## 数据集介绍
 该数据集用于网络安全领域的命名实体识别任务。
 - 实体类别：Malware, ThreatActor
-- 标签列表：[B-Mal, I-Mal, B-Threat_Actor, I-Threat_Actor, O]
-- 数据量：2895
+- 标签列表：[B-Mal, I-Mal, B-Threat_Actor, I-Threat_Actor, B-Tool, I-Tool, O]
+- 数据量：2399
 - 数据格式：训练集、测试集和验证集的数据格式相同，数据分为两列，列与列之间用\t进行分隔。第一列为文本，第二列为标签，文本和标签都用空格进行分隔。
 
 
